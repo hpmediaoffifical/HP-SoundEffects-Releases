@@ -1,5 +1,5 @@
 {
-  "version": "2.1.2",
-  "url": "https://github.com/hpmediaoffifical/HP-SoundEffects-Releases/releases/download/v2.1.2/HP-SoundEffects-Setup.exe",
-  "notes": "Thêm âm lượng riêng cho video WebM/MP4. Space dừng soundboard ngay lập tức nhưng giữ video; Shift+Space hoặc nút dừng dừng tất cả. Media người dùng tự thêm không nằm trong gói cập nhật."
+  "version": "2.2.0",
+  "url": "https://github.com/hpmediaoffifical/HP-SoundEffects-Releases/releases/download/v2.2.0/HP-SoundEffects-Setup.exe",
+  "notes": "Thêm tính năng ✂ Chỉnh sửa âm thanh: chuột phải nút -> cắt bỏ phần đầu/cuối, tăng/giảm âm lượng cả đoạn hoặc từng đoạn riêng, fade vào/ra, chuẩn hóa. Sóng âm hiển thị màu theo độ to với 2 vạch đỏ ngưỡng chuẩn (chạm là đủ, vượt là to, chưa tới là còn bé) và co giãn realtime khi kéo âm lượng. Có phóng to/cuộn, nghe thử, khôi phục mặc định. Không làm hỏng file gốc."
 }
