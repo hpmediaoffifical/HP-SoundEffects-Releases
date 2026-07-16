@@ -1,5 +1,5 @@
 {
-  "version": "2.0.0",
-  "url": "https://github.com/hpmediaoffifical/HP-SoundEffects-Releases/releases/download/v2.0.0/HP-SoundEffects-Setup.exe",
-  "notes": "Phiên bản 2.0.0 — điều khiển bằng điện thoại (Stream Deck ảo), overlay hiệu ứng OBS (video/ảnh per-nút), mã phòng, và tự cập nhật."
+  "version": "2.1.0",
+  "url": "https://github.com/hpmediaoffifical/HP-SoundEffects-Releases/releases/download/v2.1.0/HP-SoundEffects-Setup.exe",
+  "notes": "Overlay dọc WebM/MP4 một cửa sổ, video có âm lượng riêng đến 200%, thanh điều khiển gọn hơn và popup âm lượng hỗ trợ lăn chuột. Media người dùng tự thêm không nằm trong gói cập nhật."
 }
