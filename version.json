@@ -1,5 +1,5 @@
 {
-  "version": "2.3.0",
-  "url": "https://github.com/hpmediaoffifical/HP-SoundEffects-Releases/releases/download/v2.3.0/HP-SoundEffects-Setup.exe",
-  "notes": "Bổ sung cắt im lặng đầu/cuối, xuất file âm thanh WAV hoặc MP3 (128/192/320 kbps), và cập nhật thông tin tác giả trong phần Giới thiệu. Các công cụ cắt, fade, chuẩn hóa, zoom, loop nghe thử và vùng âm lượng vẫn hoạt động không phá file gốc."
+  "version": "2.4.0",
+  "url": "https://github.com/hpmediaoffifical/HP-SoundEffects-Releases/releases/download/v2.4.0/HP-SoundEffects-Setup.exe",
+  "notes": "Thêm Khóa hiệu ứng (chuột phải → Khóa) chống bị kéo di chuyển hoặc thay thế nhầm. Thanh Âm lượng dạng kéo nổi ngay trên nút, thay cho việc nhập số. Cửa sổ nổi tách riêng từng tab (chuột phải vào tab → Mở ra cửa sổ riêng): ghim luôn nổi lên trên, dán sát bên trái và bám theo cửa sổ chính, tự nhớ vị trí. Dùng chung engine nên âm lượng tổng và nút Dừng tất cả vẫn đồng bộ."
 }
