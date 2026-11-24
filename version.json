@@ -1,6 +1,6 @@
 {
-  "version": "2.6.2",
+  "version": "2.6.3",
   "url": "https://tiengcuoi.com/tai/HP-SoundEffects-Setup.exe",
-  "sha256": "32329016746c8e8e37ab9bb1b46fda7a6dd9be786e60f8595f365d9e44cc456e",
-  "notes": "Cửa sổ nổi có biểu tượng trên nút và màu riêng theo tab, giống bảng chính. Danh sách hiệu ứng, cài đặt và key của bạn được giữ nguyên khi cập nhật."
+  "sha256": "0a73807347a016c37b939e499b8705bb94b2ddff820dabd26975e1ae071729b8",
+  "notes": "Cửa sổ nổi bo góc và tự thu gọn vừa khít các hàng nút. Danh sách hiệu ứng, cài đặt và key của bạn được giữ nguyên khi cập nhật."
 }
