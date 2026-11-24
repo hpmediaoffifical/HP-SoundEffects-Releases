@@ -1,5 +1,6 @@
 {
-  "version": "2.6.0",
+  "version": "2.6.1",
   "url": "https://tiengcuoi.com/tai/HP-SoundEffects-Setup.exe",
-  "notes": "Giao diện mới: phím nổi theo màu từng tab, biểu tượng trên nút, ô tìm nhanh, thanh tiến độ trên nút đang phát, cửa sổ Cài đặt & công cụ gom một chỗ. Danh sách hiệu ứng, cài đặt và key của bạn được giữ nguyên khi cập nhật."
+  "sha256": "d428ac06453c8f0122e630a16434bd29a1a8f0f6f8cd912465215df4426c1d79",
+  "notes": "Gia cố bảo mật cho điều khiển từ xa và tự cập nhật. Ô tìm nhanh thu gọn thành nút kính lúp (Ctrl+F). Cửa sổ tự cao vừa đủ các hàng nút. Danh sách hiệu ứng, cài đặt và key của bạn được giữ nguyên khi cập nhật."
 }
