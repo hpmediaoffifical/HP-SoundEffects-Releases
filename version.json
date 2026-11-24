@@ -1,5 +1,5 @@
 {
-  "version": "2.5.1",
-  "url": "https://github.com/hpmediaoffifical/HP-SoundEffects-Releases/releases/download/v2.5.1/HP-SoundEffects-Setup.exe",
-  "notes": "Sửa lỗi bấm liên tục cùng một âm thanh bị chồng tiếng / dội (echo): giờ mỗi lần bấm lại sẽ phát lại NGAY từ đầu, ưu tiên lần bấm mới nhất, các âm thanh khác vẫn phát chồng bình thường ở chế độ Mix. Bổ sung công cụ Dọn kho (tìm file trùng/lỗi), tự động hạ nhạc nền khi bạn nói (auto-duck theo giọng) và lọc ồn micro."
+  "version": "2.5.2",
+  "url": "https://github.com/hpmediaoffifical/HP-SoundEffects-Releases/releases/download/v2.5.2/HP-SoundEffects-Setup.exe",
+  "notes": "Hỗ trợ key bản quyền mới có tiền tố HPS- / HPC-. Key cũ vẫn dùng bình thường. Danh sách hiệu ứng, cài đặt và key của bạn được giữ nguyên khi cập nhật."
 }
