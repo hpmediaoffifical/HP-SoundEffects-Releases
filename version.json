@@ -1,6 +1,6 @@
 {
-  "version": "2.6.1",
+  "version": "2.6.2",
   "url": "https://tiengcuoi.com/tai/HP-SoundEffects-Setup.exe",
-  "sha256": "d428ac06453c8f0122e630a16434bd29a1a8f0f6f8cd912465215df4426c1d79",
-  "notes": "Gia cố bảo mật cho điều khiển từ xa và tự cập nhật. Ô tìm nhanh thu gọn thành nút kính lúp (Ctrl+F). Cửa sổ tự cao vừa đủ các hàng nút. Danh sách hiệu ứng, cài đặt và key của bạn được giữ nguyên khi cập nhật."
+  "sha256": "32329016746c8e8e37ab9bb1b46fda7a6dd9be786e60f8595f365d9e44cc456e",
+  "notes": "Cửa sổ nổi có biểu tượng trên nút và màu riêng theo tab, giống bảng chính. Danh sách hiệu ứng, cài đặt và key của bạn được giữ nguyên khi cập nhật."
 }
