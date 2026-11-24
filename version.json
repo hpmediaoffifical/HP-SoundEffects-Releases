@@ -1,5 +1,5 @@
 {
-  "version": "2.5.2",
-  "url": "https://github.com/hpmediaoffifical/HP-SoundEffects-Releases/releases/download/v2.5.2/HP-SoundEffects-Setup.exe",
-  "notes": "Hỗ trợ key bản quyền mới có tiền tố HPS- / HPC-. Key cũ vẫn dùng bình thường. Danh sách hiệu ứng, cài đặt và key của bạn được giữ nguyên khi cập nhật."
+  "version": "2.5.3",
+  "url": "https://tiengcuoi.com/tai/HP-SoundEffects-Setup.exe",
+  "notes": "Thêm ô banner tin mới của HP Media ngay trong app (tự đổi ảnh mỗi 5 giây). Danh sách hiệu ứng, cài đặt và key của bạn được giữ nguyên khi cập nhật."
 }
