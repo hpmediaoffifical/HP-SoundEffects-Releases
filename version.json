@@ -1,6 +1,6 @@
 {
-  "version": "2.6.3",
+  "version": "2.6.4",
   "url": "https://tiengcuoi.com/tai/HP-SoundEffects-Setup.exe",
-  "sha256": "0a73807347a016c37b939e499b8705bb94b2ddff820dabd26975e1ae071729b8",
-  "notes": "Cửa sổ nổi bo góc và tự thu gọn vừa khít các hàng nút. Danh sách hiệu ứng, cài đặt và key của bạn được giữ nguyên khi cập nhật."
+  "sha256": "1891b4e02b8586fa0e8793a70ae13a94fe1ad4942ebfa7fc83aa658f80551ca5",
+  "notes": "Sửa lỗi nhập key đúng nhưng app vẫn báo hết thời gian dùng thử. Danh sách hiệu ứng, cài đặt và key của bạn được giữ nguyên khi cập nhật."
 }
